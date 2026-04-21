@@ -1,4 +1,4 @@
-//  SS=96(9),OB=91(10),CS=90(9),EC=94(10),FPGA=87(9),IE=74(9)
+//  SS=96(9),OB=91(10),CS=89(9),EC=93(10),FPGA=87(9),IE=74(9)
 
 #include<iostream>
 using namespace std;
